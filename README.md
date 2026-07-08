@@ -66,17 +66,9 @@ I enjoy building software that combines AI with practical solutions through real
 </a>
 
 <a href="mailto:yasminsherif2028@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="48" height="48"/>
 </a>
 </p>
 
 
 ---
-
-## GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yasminsherif200&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminsherif200&layout=compact&theme=transparent&hide_border=true"/>
-</p>
